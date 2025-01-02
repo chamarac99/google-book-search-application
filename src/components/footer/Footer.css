@@ -1,0 +1,45 @@
+/* Footer container to be fixed at the bottom */
+.footer-container {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 0;
+    background: #e89b68; /* Deep navy blue for the footer background */
+    color: #ecf0f1; /* Light grey for text */
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    font-size: 16px;
+}
+
+/* Footer content (flex layout) */
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+/* Footer info styling */
+.footer-info {
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #e6eff5; /* Softer grey for less emphasis */
+}
+
+/* Footer links layout */
+.footer-links {
+    display: flex;
+    gap: 25px;
+}
+
+.footer-links a {
+    color: #ecf0f1; 
+    text-decoration: none;
+}
+
+/* Add hover effect for links */
+.footer-links a:hover {
+    text-decoration: underline;
+}
