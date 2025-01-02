@@ -18,19 +18,18 @@ This is a web application that retrieves book details from the Google Books API 
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
-- [Node.js](https://nodejs.org/en/) (preferably the latest LTS version)
 - A web browser (e.g., Chrome, Firefox)
 
 ### Installation
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/book-finder.git
+    git clone https://github.com/chamarac99/google-book-search-application.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd book-finder
+    cd google-book-search-application
     ```
 
 3. Install the dependencies:
