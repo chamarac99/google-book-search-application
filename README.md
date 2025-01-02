@@ -7,7 +7,7 @@ This is a web application that retrieves book details from the Google Books API 
 - **Search functionality**: Users can search for books by title, author, or ISBN.
 - **Book details display**: Displays a list of books with relevant details such as title, author, and description.
 - **Responsive design**: The app is mobile-friendly and adjusts its layout based on screen size.
-  
+
 ## Technologies Used
 - **React**: The frontend framework used to build the user interface.
 - **Google Books API**: Used to fetch book data.
@@ -52,10 +52,20 @@ To get a local copy up and running, follow these simple steps.
 ## API Used
 This application uses the **Google Books API** to retrieve book details. You can find the documentation [here](https://developers.google.com/books).
 
+## Deployment
+The application is deployed and can be accessed at the following link:
+
+[Book Finder Web Application](https://google-api-books-search-2000.netlify.app/)
+
+## Preview
+
+Here’s a preview of the application:
+
+![Site Preview](https://github.com/chamarac99/google-book-search-application/blob/main/src/assets/site%20interface.png)
+
 ## License
 This project is licensed under the MIT License.
 
 ---
 
-**Author:** [Chamara Bandara}  
-
+**Author:** [Chamara Bandara](https://github.com/chamarac99)
